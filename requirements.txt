@@ -1,0 +1,10 @@
+fastai==2.7.17
+fastaudio==0.1.4
+numpy==1.23.5
+pandas==1.5.3
+torch==2.3.1+cu118
+torchvision==0.18.1+cu118
+torchaudio==2.3.1+cu118
+matplotlib==3.3.0
+efficientnet_pytorch==0.7.1
+librosa==0.8.0
